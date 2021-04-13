@@ -1,8 +1,6 @@
 # Assalamu Alaikum
 
-You can use the [editor on GitHub](https://github.com/ashrafulhaqove/ashrafulhaqove/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A Self-Motivated proud practicing Muslim with the energy to change the world Insha-ALLAH. Love making new relations, helping the un-helped, making people smile. Enthusiasm in Theology, Science, History, Arts and 'Coffee' of course ! 
 
 ### Markdown
 
